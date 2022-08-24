@@ -6,3 +6,7 @@ management:
       # base-path: /internal
       exposure:
         include: "*"
+
+logging:
+  file:
+    name: "logfile.txt"
